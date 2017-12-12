@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+}
+
+nav {
+    background-color: rgb(60,60,60);
+
+}
+
+a.linka {
+	margin-right: 10px;
+}
+
+a.image1 {
+	float: right;
+}
+
+header {
+    background-color: rgb(80, 80, 80);
+    font-size: 400%;
+}
+
+a:link {
+    color: rgb(211, 255, 253); 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(217, 255, 252);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(200, 200, 200);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(102, 102, 102);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
